@@ -40,7 +40,7 @@ This repl includes my testing code that will check if your code meets this assig
 [comment]: <> ([https://repl.it/@appbrewery/day-1-1-solution]&#40;https://repl.it/@appbrewery/day-1-1-solution&#41;)
 
 
-# Beginner
+
 ## Day 01 exercise 02
 ## Debugging
 
