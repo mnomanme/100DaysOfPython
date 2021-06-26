@@ -31,13 +31,13 @@ e.g. When you hit **run**, this is what should happen:
 
 Before checking the solution, try copy-pasting your code into this repl: 
 
-[comment]: <> ([https://repl.it/@nayeemme/day-1-1-test-your-code]&#40;https://repl.it/@nayeemme/day-1-1-test-your-code&#41;)
+[https://repl.it/@nayeemme/day-1-1-test-your-code](https://repl.it/@nayeemme/day-1-1-test-your-code)
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
 # Solution
 
-[comment]: <> ([https://repl.it/@nayeemme/day-1-1-solution]&#40;https://repl.it/@nayeemme/day-1-1-solution&#41;)
+[https://repl.it/@nayeemme/day-1-1-solution](https://repl.it/@nayeemme/day-1-1-solution)
 
 
 
