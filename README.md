@@ -31,13 +31,13 @@ e.g. When you hit **run**, this is what should happen:
 
 Before checking the solution, try copy-pasting your code into this repl: 
 
-[comment]: <> ([https://repl.it/@appbrewery/day-1-1-test-your-code]&#40;https://repl.it/@appbrewery/day-1-1-test-your-code&#41;)
+[comment]: <> ([https://repl.it/@nayeemme/day-1-1-test-your-code]&#40;https://repl.it/@nayeemme/day-1-1-test-your-code&#41;)
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
 # Solution
 
-[comment]: <> ([https://repl.it/@appbrewery/day-1-1-solution]&#40;https://repl.it/@appbrewery/day-1-1-solution&#41;)
+[comment]: <> ([https://repl.it/@nayeemme/day-1-1-solution]&#40;https://repl.it/@nayeemme/day-1-1-solution&#41;)
 
 
 
@@ -69,13 +69,13 @@ e.g. When you hit **run**, there should be no errors and this is what should hap
 
 Before checking the solution, try copy-pasting your code into this repl: 
 
-[https://repl.it/@appbrewery/day-1-2-test-your-code](https://repl.it/@appbrewery/day-1-2-test-your-code)
+[https://repl.it/@nayeemme/day-1-2-test-your-code](https://repl.it/@nayeemme/day-1-2-test-your-code)
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
 # Solution
 
-[https://repl.it/@appbrewery/day-1-2-solution](https://repl.it/@appbrewery/day-1-2-solution)
+[https://repl.it/@nayeemme/day-1-2-solution](https://repl.it/@nayeemme/day-1-2-solution)
 
 
 ## Day 01 exercise 03
@@ -116,11 +116,65 @@ e.g. When you hit **run**, this is what should happen:
 
 Before checking the solution, try copy-pasting your code into this repl: 
 
-[https://repl.it/@appbrewery/day-1-3-test-your-code](https://repl.it/@appbrewery/day-1-3-test-your-code)
+[https://repl.it/@nayeemme/day-1-3-test-your-code](https://repl.it/@nayeemme/day-1-3-test-your-code)
 
 This repl includes my testing code that will check if your code meets this assignment's objectives. 
 
 
 # Solution
 
-[https://repl.it/@appbrewery/day-1-3-solution](https://repl.it/@appbrewery/day-1-3-solution)
+[https://repl.it/@nayeemme/day-1-3-solution](https://repl.it/@nayeemme/day-1-3-solution)
+
+
+## Day 01 exercise 04
+## Variables
+
+# Instructions
+
+Write a program that switches the values stored in the variables a and b. 
+
+**Warning.** Do not change the code on lines 1-4 and 12-18. Your program should work for different inputs. e.g. any value of a and b.
+
+# Example Input
+
+```
+a: 3
+```
+
+```
+b: 5
+```
+
+# Example Output
+
+```
+a: 5
+```
+
+```
+b: 3
+```
+
+e.g. When you hit **run**, this is what should happen:
+
+![](https://cdn.fs.teachablecdn.com/tgdNl0iSqK6RpPyYZh9d)
+
+# Hint
+
+1. You should not have to type any numbers in your code. 
+2. You might need to make some more variables.
+
+# Test Your Code
+
+Before checking the solution, try copy-pasting your code into this repl: 
+
+[https://repl.it/@nayeemme/day-1-4-test-your-code](https://repl.it/@nayeemme/day-1-4-test-your-code)
+
+This repl includes my testing code that will check if your code meets this assignment's objectives. 
+
+
+
+
+# Solution
+
+[https://repl.it/@nayeemme/day-1-4-solution](https://repl.it/@nayeemme/day-1-4-solution)
