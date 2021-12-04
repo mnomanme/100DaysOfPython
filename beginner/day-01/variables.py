@@ -6,9 +6,10 @@ b = input("b: ")
 ####################################
 # Write your code below this line 👇
 
-c = a
+temp = a
 a = b
-b = c
+b = temp
+
 
 # Write your code above this line 👆
 ####################################
@@ -16,3 +17,4 @@ b = c
 # 🚨 Don't change the code below 👇
 print("a: " + a)
 print("b: " + b)
+
